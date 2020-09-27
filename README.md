@@ -1,4 +1,4 @@
-# autotext
+# autotext ~just for fun~
 Mini project to play with twilio whatsapp API
 
 Technologies used:
