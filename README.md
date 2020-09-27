@@ -19,7 +19,7 @@ pip install schedule
 
 in the autotext.py file
 add in messages to the array
-change the scheduled timing
+or change the scheduled timing
 
 in your terminal
 python3 autotext.py
